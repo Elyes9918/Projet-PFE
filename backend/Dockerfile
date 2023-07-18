@@ -30,3 +30,10 @@ EXPOSE 9000
 
 # Run PHP-FPM
 CMD ["php-fpm"]
+
+
+
+
+
+
+
